@@ -1,0 +1,260 @@
+[
+  {
+    "id": "law-111048",
+    "year": 2024,
+    "stage": "2차",
+    "provider": "법학원",
+    "subject": "행정사실무법",
+    "teacher": "정진석·이종호",
+    "tracks": [
+      "일반"
+    ],
+    "url": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1877&field=35&mnNum=1&subMnNum=1&num=111048"
+  },
+  {
+    "id": "law-111110",
+    "year": 2024,
+    "stage": "2차",
+    "provider": "법학원",
+    "subject": "민법(계약)",
+    "teacher": "오수현·김묘엽",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1877&field=35&mnNum=1&subMnNum=1&num=111110"
+  },
+  {
+    "id": "law-111164",
+    "year": 2024,
+    "stage": "2차",
+    "provider": "법학원",
+    "subject": "행정절차론",
+    "teacher": "이현우·이정욱·엄정호",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1877&field=35&mnNum=1&subMnNum=1&num=111164"
+  },
+  {
+    "id": "law-111064",
+    "year": 2024,
+    "stage": "2차",
+    "provider": "법학원",
+    "subject": "사무관리론",
+    "teacher": "최준문·최의란",
+    "tracks": [
+      "일반",
+      "외국어번역",
+      "해사"
+    ],
+    "url": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1877&field=35&mnNum=1&subMnNum=1&num=111064"
+  },
+  {
+    "id": "law-117779",
+    "year": 2026,
+    "stage": "1차",
+    "provider": "법학원",
+    "subject": "민법총칙·행정법·행정학개론",
+    "teacher": "과목별 강사진",
+    "tracks": [],
+    "url": "https://ppm.lawschool.co.kr/nmobile/board/off_notice_view.asp?brdCode=1877&brdType=1&field=35&num=117779&sitename=lawschool"
+  },
+  {
+    "id": "pmg-226527643",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "사무관리론",
+    "teacher": "김재준",
+    "tracks": [
+      "일반",
+      "외국어번역",
+      "해사"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226527643&NUMBER=137&bbsid=3831"
+  },
+  {
+    "id": "pmg-226526390",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "민법계약",
+    "teacher": "조민기",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226526390&NUMBER=136&bbsid=3831"
+  },
+  {
+    "id": "pmg-226526303",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "행정사실무법",
+    "teacher": "조장형",
+    "tracks": [
+      "일반"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226526303&NUMBER=135&bbsid=3831"
+  },
+  {
+    "id": "pmg-226524597",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "행정사실무법",
+    "teacher": "임병주",
+    "tracks": [
+      "일반"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226524597&NUMBER=134&bbsid=3831"
+  },
+  {
+    "id": "pmg-226524387",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "민법계약",
+    "teacher": "김중연",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226524387&NUMBER=133&bbsid=3831"
+  },
+  {
+    "id": "pmg-226524385",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "행정절차론",
+    "teacher": "이준희",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226524385&NUMBER=132&bbsid=3831"
+  },
+  {
+    "id": "pmg-226524383",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "행정사실무법",
+    "teacher": "이준희",
+    "tracks": [
+      "일반"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226524383&NUMBER=131&bbsid=3831"
+  },
+  {
+    "id": "pmg-226524380",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "행정절차론",
+    "teacher": "이상기",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226524380&NUMBER=130&bbsid=3831"
+  },
+  {
+    "id": "pmg-226524378",
+    "year": 2026,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "사무관리론",
+    "teacher": "이상기",
+    "tracks": [
+      "일반",
+      "외국어번역",
+      "해사"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=226524378&NUMBER=129&bbsid=3831"
+  },
+  {
+    "id": "pmg-225896423",
+    "year": 2025,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "행정절차론",
+    "teacher": "이상기",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=225896423&NUMBER=125&bbsid=3831"
+  },
+  {
+    "id": "pmg-225896408",
+    "year": 2025,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "민법계약",
+    "teacher": "백운정",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=225896408&NUMBER=124&bbsid=3831"
+  },
+  {
+    "id": "pmg-225896398",
+    "year": 2025,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "민법계약",
+    "teacher": "조민기",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://www.pmg.co.kr/user/phjo/board/board_common.asp?ID=225896398&NUMBER=122&bbsid=3831"
+  },
+  {
+    "id": "pmg-2023-procedure",
+    "year": 2023,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "행정절차론",
+    "teacher": "이준희",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://att.pmg.co.kr/EtcData/board/3618/2023%EB%85%84%20%EC%A0%9C11%ED%9A%8C%20%ED%96%89%EC%A0%95%EC%82%AC%202%EC%B0%A8%20%EC%8B%9C%ED%97%98%20%ED%96%89%EC%A0%95%EC%A0%88%EC%B0%A8%EB%A1%A0%20%EB%AA%A8%EB%B2%94%EB%8B%B5%EC%95%88_%EB%B0%95%EB%AC%B8%EA%B0%81%20%EC%9D%B4%EC%A4%80%ED%9D%AC%20%ED%96%89%EC%A0%95%EC%82%AC-%ED%86%B5%ED%95%A9.pdf"
+  },
+  {
+    "id": "pmg-2023-civil",
+    "year": 2023,
+    "stage": "2차",
+    "provider": "박문각",
+    "subject": "민법(계약)",
+    "teacher": "백운정",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://att.eduspa.com/EtcData/board/5347/2023%EB%85%84%20%EC%A0%9C11%ED%9A%8C%20%ED%96%89%EC%A0%95%EC%82%AC%20%EC%A0%9C2%EC%B0%A8%20%EB%AF%BC%EB%B2%95%20%ED%95%B4%EC%84%A4.pdf"
+  },
+  {
+    "id": "law-105589",
+    "year": 2023,
+    "stage": "2차",
+    "provider": "법학원",
+    "subject": "행정절차론",
+    "teacher": "이현우",
+    "tracks": [
+      "공통"
+    ],
+    "url": "https://m.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1877&field=35&num=105589&mnNum=1&subMnNum=1"
+  },
+  {
+    "id": "law-105569",
+    "year": 2023,
+    "stage": "2차",
+    "provider": "법학원",
+    "subject": "사무관리론",
+    "teacher": "최의란",
+    "tracks": [
+      "일반",
+      "외국어번역",
+      "해사"
+    ],
+    "url": "https://m.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1877&field=35&num=105569&mnNum=1&subMnNum=1"
+  }
+]
