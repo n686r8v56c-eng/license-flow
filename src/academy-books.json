@@ -1,0 +1,808 @@
+[
+  {
+    "id": "book-P202656616",
+    "title": "2027 박문각 행정사 1차 임병주 행정법 기본서",
+    "authors": [
+      "임병주"
+    ],
+    "provider": "박문각",
+    "stage": "1차",
+    "subject": "행정법",
+    "price": 25200,
+    "regularPrice": 28000,
+    "publishedAt": "2026-07-07",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656616",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656616",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202656708",
+    "title": "2027 박문각 행정사 1차 이준희 행정법 기본서",
+    "authors": [
+      "이준희"
+    ],
+    "provider": "박문각",
+    "stage": "1차",
+    "subject": "행정법",
+    "price": 25200,
+    "regularPrice": 28000,
+    "publishedAt": "2026-07-27",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656708",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656708",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202656854",
+    "title": "2027 박문각 행정사 1차 조민기 민법총칙 기본서",
+    "authors": [
+      "조민기"
+    ],
+    "provider": "박문각",
+    "stage": "1차",
+    "subject": "민법총칙",
+    "price": 19800,
+    "regularPrice": 22000,
+    "publishedAt": "2026-08-14",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656854",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656854",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202656945",
+    "title": "2027 원포인트 행정사 1차 민법총칙 기본서(제2판)",
+    "authors": [
+      "김중연"
+    ],
+    "provider": "박문각",
+    "stage": "1차",
+    "subject": "민법총칙",
+    "price": 15200,
+    "regularPrice": 16000,
+    "publishedAt": "2026-08-25",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656945",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656945",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202657003",
+    "title": "2027 박문각 행정사 1차 최욱진 행정학개론 기본서",
+    "authors": [
+      "최욱진"
+    ],
+    "provider": "박문각",
+    "stage": "1차",
+    "subject": "행정학개론",
+    "price": 26100,
+    "regularPrice": 29000,
+    "publishedAt": "2026-09-01",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657003",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657003",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202656852",
+    "title": "2027 박문각 행정사 1차 김재준 행정학개론 기본서",
+    "authors": [
+      "김재준"
+    ],
+    "provider": "박문각",
+    "stage": "1차",
+    "subject": "행정학개론",
+    "price": 17100,
+    "regularPrice": 19000,
+    "publishedAt": "2026-08-14",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656852",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202656852",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202657305",
+    "title": "2027 박문각 행정사 2차 조민기 민법(계약) 기본서",
+    "authors": [
+      "조민기"
+    ],
+    "provider": "박문각",
+    "stage": "2차",
+    "subject": "민법(계약)",
+    "price": 24300,
+    "regularPrice": 27000,
+    "publishedAt": "2026-11-02",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657305",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657305",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202657306",
+    "title": "2027 박문각 행정사 2차 임병주 행정사실무법 기본서",
+    "authors": [
+      "임병주"
+    ],
+    "provider": "박문각",
+    "stage": "2차",
+    "subject": "행정사실무법",
+    "price": 18900,
+    "regularPrice": 21000,
+    "publishedAt": "2026-11-02",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657306",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657306",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202657294",
+    "title": "2027 박문각 행정사 2차 이준희 행정사실무법 기본서",
+    "authors": [
+      "이준희"
+    ],
+    "provider": "박문각",
+    "stage": "2차",
+    "subject": "행정사실무법",
+    "price": 22500,
+    "regularPrice": 25000,
+    "publishedAt": "2026-11-02",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657294",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657294",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202657295",
+    "title": "2027 박문각 행정사 2차 이상기/이준희 행정절차론 기본서",
+    "authors": [
+      "이상기",
+      "이준희"
+    ],
+    "provider": "박문각",
+    "stage": "2차",
+    "subject": "행정절차론",
+    "price": 28800,
+    "regularPrice": 32000,
+    "publishedAt": "2026-11-02",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657295",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657295",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202657299",
+    "title": "2027 박문각 행정사 2차 이상기 사무관리론 기본서",
+    "authors": [
+      "이상기"
+    ],
+    "provider": "박문각",
+    "stage": "2차",
+    "subject": "사무관리론",
+    "price": 24300,
+    "regularPrice": 27000,
+    "publishedAt": "2026-11-02",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657299",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657299",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-P202657304",
+    "title": "2027 박문각 행정사 2차 김재준 사무관리론 기본서",
+    "authors": [
+      "김재준"
+    ],
+    "provider": "박문각",
+    "stage": "2차",
+    "subject": "사무관리론",
+    "price": 26100,
+    "regularPrice": 29000,
+    "publishedAt": "2026-11-02",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657304",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657304",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-kjy-contract",
+    "title": "2027 원포인트 행정사 2차 민법(계약) 기본서",
+    "authors": [
+      "김중연"
+    ],
+    "provider": "박문각",
+    "stage": "2차",
+    "subject": "민법(계약)",
+    "price": 16150,
+    "regularPrice": 17000,
+    "publishedAt": "2026-10-25",
+    "purchaseLinks": [
+      {
+        "name": "교보문고",
+        "url": "https://search.kyobobook.co.kr/search?keyword=2027%20%EC%9B%90%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%ED%96%89%EC%A0%95%EC%82%AC%202%EC%B0%A8%20%EB%AF%BC%EB%B2%95%20%EA%B3%84%EC%95%BD%20%EA%B8%B0%EB%B3%B8%EC%84%9C%20%EA%B9%80%EC%A4%91%EC%97%B0",
+        "search": true
+      }
+    ],
+    "sourceUrl": "https://koaa.pmg.co.kr/user/phjo/lecture/lecture_detail.asp?CrsCode=011220260088M&OpenCrsCode=011220260248O",
+    "notes": "가격은 박문각 강좌 교재란 기준. 연결한 서점 검색 결과의 판매가는 다를 수 있어.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "book-kjy-contract-notes",
+    "title": "2027 원포인트 행정사 2차 민법(계약) 쟁점노트",
+    "authors": [
+      "김중연"
+    ],
+    "provider": "박문각",
+    "stage": "2차",
+    "subject": "민법(계약)",
+    "price": 11400,
+    "regularPrice": 12000,
+    "publishedAt": "2026-10-25",
+    "purchaseLinks": [
+      {
+        "name": "박문각 북스파",
+        "url": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657327",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.pmg.co.kr/user/m/sm/sub2017/prod_view.asp?SiteID=bookspa&gcode=P202657327",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17602",
+    "title": "2027 행정사 김덕관 행정학 기출문제집",
+    "authors": [
+      "김덕관"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "행정학개론",
+    "price": 29700,
+    "regularPrice": 33000,
+    "publishedAt": "2026-10-23",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17602",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17602",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17583",
+    "title": "2027 행정사 김덕관 행정학 기본서",
+    "authors": [
+      "김덕관"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "행정학개론",
+    "price": 33300,
+    "regularPrice": 37000,
+    "publishedAt": "2026-10-07",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17583",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17583",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17593",
+    "title": "2027 유병준 행정사 핵심정리 행정학개론(필기노트 겸용)",
+    "authors": [
+      "유병준"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "행정학개론",
+    "price": 16200,
+    "regularPrice": 18000,
+    "publishedAt": "2026-10-06",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17593",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17593",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17592",
+    "title": "2027 유병준 행정사 행정학개론(제11판)",
+    "authors": [
+      "유병준"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "행정학개론",
+    "price": 32400,
+    "regularPrice": 36000,
+    "publishedAt": "2026-10-06",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17592",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17592",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17587",
+    "title": "Essential 행정사 1차 민법(총칙) 기본서",
+    "authors": [
+      "김남훈"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "민법총칙",
+    "price": 14400,
+    "regularPrice": 16000,
+    "publishedAt": "2026-10-02",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17587",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17587",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17571",
+    "title": "2027 이재준 The준 행정법 이론편",
+    "authors": [
+      "이재준"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "행정법",
+    "price": 32400,
+    "regularPrice": 36000,
+    "publishedAt": "2026-09-17",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17571",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17571",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17543",
+    "title": "서창교 행정사 행정법 기본서",
+    "authors": [
+      "서창교"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "행정법",
+    "price": 28800,
+    "regularPrice": 32000,
+    "publishedAt": "2026-08-20",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17543",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17543",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17551",
+    "title": "2027 오수현 민법총칙 강의안",
+    "authors": [
+      "오수현"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "민법총칙",
+    "price": 17100,
+    "regularPrice": 19000,
+    "publishedAt": "2026-08-07",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17551",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17551",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17550",
+    "title": "2027 오수현 민법총칙 객관식",
+    "authors": [
+      "오수현"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "민법총칙",
+    "price": 19800,
+    "regularPrice": 22000,
+    "publishedAt": "2026-08-07",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17550",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17550",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-17549",
+    "title": "2027 오수현 민법총칙 기본서",
+    "authors": [
+      "오수현"
+    ],
+    "provider": "합격의법학원",
+    "stage": "1차",
+    "subject": "민법총칙",
+    "price": 23400,
+    "regularPrice": 26000,
+    "publishedAt": "2026-08-07",
+    "purchaseLinks": [
+      {
+        "name": "합격의법학원 수험서몰",
+        "url": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17549",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://ppm.lawschool.co.kr/nmobile/mall/mall_view.asp?field=35&sitename=lawschool&book_code=17549",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-compact",
+    "title": "2027 Compact 사무관리론",
+    "authors": [
+      "최의란"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "사무관리론",
+    "price": 19800,
+    "regularPrice": 22000,
+    "publishedAt": "2026-11-02",
+    "purchaseLinks": [
+      {
+        "name": "상원서점",
+        "url": "https://www.sangwon.co.kr/goods/goods_view.php?goodsNo=1000065307",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.sangwon.co.kr/goods/goods_view.php?goodsNo=1000065307",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-choi",
+    "title": "2027 한 권으로 끝내는 행정사 사무관리론",
+    "authors": [
+      "최준문"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "사무관리론",
+    "price": 12000,
+    "regularPrice": 12000,
+    "publishedAt": "2026-10-15",
+    "purchaseLinks": [
+      {
+        "name": "예스24",
+        "url": "https://www.yes24.com/product/goods/198405190",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.yes24.com/product/goods/198405190",
+    "notes": "",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-leaders",
+    "title": "2027 리더스 행정사실무법 기본서",
+    "authors": [
+      "정진석"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "행정사실무법",
+    "price": 19800,
+    "regularPrice": 22000,
+    "publishedAt": "2026-11-02",
+    "purchaseLinks": [
+      {
+        "name": "상원서점",
+        "url": "https://www.sangwon.co.kr/goods/goods_view.php?goodsNo=1000065305",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.sangwon.co.kr/goods/goods_view.php?goodsNo=1000065305",
+    "notes": "학원 안내는 10/30, 서점 출간 안내는 11/2로 차이가 있어. 서점 안내일 기준으로 표시.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-jho",
+    "title": "2027 슬기로운 행정사실무법 기본서",
+    "authors": [
+      "이종호"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "행정사실무법",
+    "price": 18000,
+    "regularPrice": 20000,
+    "publishedAt": "2026-10-31",
+    "purchaseLinks": [
+      {
+        "name": "교보문고",
+        "url": "https://search.kyobobook.co.kr/search?keyword=2027%20%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%ED%96%89%EC%A0%95%EC%82%AC%EC%8B%A4%EB%AC%B4%EB%B2%95%20%EA%B8%B0%EB%B3%B8%EC%84%9C%20%EC%9D%B4%EC%A2%85%ED%98%B8",
+        "search": true
+      }
+    ],
+    "sourceUrl": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1870&field=35&mnNum=2&subMnNum=5&num=119182",
+    "notes": "가격·출간일은 학원 안내 기준. 구매처 검색 결과의 판매가는 다를 수 있어.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-eom",
+    "title": "2027 엄두나는 행정절차론",
+    "authors": [
+      "엄정호"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "행정절차론",
+    "price": 18000,
+    "regularPrice": 20000,
+    "publishedAt": "2026-10-29",
+    "purchaseLinks": [
+      {
+        "name": "교보문고",
+        "url": "https://search.kyobobook.co.kr/search?keyword=2027%20%EC%97%84%EB%91%90%EB%82%98%EB%8A%94%20%ED%96%89%EC%A0%95%EC%A0%88%EC%B0%A8%EB%A1%A0%20%EC%97%84%EC%A0%95%ED%98%B8",
+        "search": true
+      }
+    ],
+    "sourceUrl": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1870&field=35&mnNum=2&subMnNum=5&num=119178",
+    "notes": "가격·출간일은 학원 안내 기준. 구매처 검색 결과의 판매가는 다를 수 있어.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-ljw",
+    "title": "2027 한 권으로 끝내는 행정사 행정절차론",
+    "authors": [
+      "이정욱"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "행정절차론",
+    "price": 18000,
+    "regularPrice": 20000,
+    "publishedAt": "2026-10-30",
+    "purchaseLinks": [
+      {
+        "name": "교보문고",
+        "url": "https://search.kyobobook.co.kr/search?keyword=2027%20%ED%95%9C%20%EA%B6%8C%EC%9C%BC%EB%A1%9C%20%EB%81%9D%EB%82%B4%EB%8A%94%20%ED%96%89%EC%A0%95%EC%82%AC%20%ED%96%89%EC%A0%95%EC%A0%88%EC%B0%A8%EB%A1%A0%20%EC%9D%B4%EC%A0%95%EC%9A%B1",
+        "search": true
+      }
+    ],
+    "sourceUrl": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1870&field=35&mnNum=2&subMnNum=5&num=119178",
+    "notes": "가격·출간일은 학원 안내 기준. 구매처 검색 결과의 판매가는 다를 수 있어.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-knh",
+    "title": "Essential 행정사 2차 민법(계약) 기본서(제2판)",
+    "authors": [
+      "김남훈"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "민법(계약)",
+    "price": 15300,
+    "regularPrice": 17000,
+    "publishedAt": "2026-10-30",
+    "purchaseLinks": [
+      {
+        "name": "교보문고",
+        "url": "https://search.kyobobook.co.kr/search?keyword=Essential%20%ED%96%89%EC%A0%95%EC%82%AC%202%EC%B0%A8%20%EB%AF%BC%EB%B2%95(%EA%B3%84%EC%95%BD)%20%EA%B8%B0%EB%B3%B8%EC%84%9C(%EC%A0%9C2%ED%8C%90)%20%EA%B9%80%EB%82%A8%ED%9B%88",
+        "search": true
+      }
+    ],
+    "sourceUrl": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1870&field=35&mnNum=2&subMnNum=5&num=119176",
+    "notes": "가격·출간일은 학원 안내 기준. 구매처 검색 결과의 판매가는 다를 수 있어.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-osh-main",
+    "title": "2027 오수현 계약법 기본서",
+    "authors": [
+      "오수현"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "민법(계약)",
+    "price": 23400,
+    "regularPrice": 26000,
+    "publishedAt": "2026-10-12",
+    "purchaseLinks": [
+      {
+        "name": "교보문고",
+        "url": "https://search.kyobobook.co.kr/search?keyword=2027%20%EC%98%A4%EC%88%98%ED%98%84%20%EA%B3%84%EC%95%BD%EB%B2%95%20%EA%B8%B0%EB%B3%B8%EC%84%9C%20%EC%98%A4%EC%88%98%ED%98%84",
+        "search": true
+      }
+    ],
+    "sourceUrl": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1870&field=35&mnNum=2&subMnNum=5&num=119176",
+    "notes": "가격·출간일은 학원 안내 기준. 구매처 검색 결과의 판매가는 다를 수 있어.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-osh-cases",
+    "title": "2027 오수현 계약법 사례집",
+    "authors": [
+      "오수현"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "민법(계약)",
+    "price": 21600,
+    "regularPrice": 24000,
+    "publishedAt": "2026-10-12",
+    "purchaseLinks": [
+      {
+        "name": "교보문고",
+        "url": "https://search.kyobobook.co.kr/search?keyword=2027%20%EC%98%A4%EC%88%98%ED%98%84%20%EA%B3%84%EC%95%BD%EB%B2%95%20%EC%82%AC%EB%A1%80%EC%A7%91%20%EC%98%A4%EC%88%98%ED%98%84",
+        "search": true
+      }
+    ],
+    "sourceUrl": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1870&field=35&mnNum=2&subMnNum=5&num=119176",
+    "notes": "가격·출간일은 학원 안내 기준. 구매처 검색 결과의 판매가는 다를 수 있어.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-osh-notes",
+    "title": "2027 오수현 계약법 강의안",
+    "authors": [
+      "오수현"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "민법(계약)",
+    "price": 17100,
+    "regularPrice": 19000,
+    "publishedAt": "2026-10-12",
+    "purchaseLinks": [
+      {
+        "name": "교보문고",
+        "url": "https://search.kyobobook.co.kr/search?keyword=2027%20%EC%98%A4%EC%88%98%ED%98%84%20%EA%B3%84%EC%95%BD%EB%B2%95%20%EA%B0%95%EC%9D%98%EC%95%88%20%EC%98%A4%EC%88%98%ED%98%84",
+        "search": true
+      }
+    ],
+    "sourceUrl": "https://www.lawschool.co.kr/nlawschool/board/infomation/view.asp?bbsCode=1870&field=35&mnNum=2&subMnNum=5&num=119176",
+    "notes": "가격·출간일은 학원 안내 기준. 구매처 검색 결과의 판매가는 다를 수 있어.",
+    "checkedAt": "2026-11-03"
+  },
+  {
+    "id": "lawbook-lhw-cases",
+    "title": "2026 행정사 행정절차론 알고리즘 사례집",
+    "authors": [
+      "이현우"
+    ],
+    "provider": "합격의법학원",
+    "stage": "2차",
+    "subject": "행정절차론",
+    "price": 17100,
+    "regularPrice": 18000,
+    "publishedAt": "2026-05-30",
+    "purchaseLinks": [
+      {
+        "name": "예스24",
+        "url": "https://www.yes24.com/product/goods/189250016",
+        "search": false
+      }
+    ],
+    "sourceUrl": "https://www.yes24.com/product/goods/189250016",
+    "notes": "2026년판. 2027년 기본강의는 교재 출간 전 비판매 보충자료를 안내하고 있어.",
+    "checkedAt": "2026-11-03"
+  }
+]
